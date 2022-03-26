@@ -21,7 +21,7 @@
     font-size: medium;
     font-style: italic;
     font-weight: bold;
-    text-transform: uppercase;}
+    text-transform: map-get($text,uppercase );}
     
     .rowuno{display:flex ;;}
     .row{max-width: 100%;

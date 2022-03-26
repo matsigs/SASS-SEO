@@ -14,5 +14,5 @@ $colordos:#00ffff;
     .adicionales{animation-name: adicionales;animation-duration: 5s;animation-iteration-count: infinite;}
 
     @keyframes adicionales {0%{background-color: red;}
- 50%{background-color: $colordos;}
+ 50%{background-color:map-get($text,coloruno )}
  100%{background-color:map-get($text,colordos)}}

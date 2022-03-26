@@ -9,15 +9,6 @@
     h1{@extend %disposicion}
 
     .ventas{@include cosas;
-    .mayor {padding-right: 20%;}}
+    .mayor {padding-right: 20%;}};
     
-    /*/ camping/*/
-    
-    .fotossegundac{margin-left: 10%;}
-     .fotoprimerasc p{margin-right: 20%;}
-     .imagencuatroa{padding-top: 20%;}
-     
-     
-     .adicionales{text-align: center;
-    font-size: x-large;text-transform: uppercase;
-    color: rgb(123, 131, 115);background-color: azure;}
+ 

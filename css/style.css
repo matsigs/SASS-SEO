@@ -29,31 +29,10 @@ h1 {
   font-size: medium;
   text-decoration: solid;
   font-style: italic;
-  text-transform: lowercase;
+  text-transform: uppercase;
 }
 .ventas .mayor {
   padding-right: 20%;
-}
-
-/*/ camping/*/
-.fotossegundac {
-  margin-left: 10%;
-}
-
-.fotoprimerasc p {
-  margin-right: 20%;
-}
-
-.imagencuatroa {
-  padding-top: 20%;
-}
-
-.adicionales {
-  text-align: center;
-  font-size: x-large;
-  text-transform: uppercase;
-  color: #7b8373;
-  background-color: azure;
 }
 
 .fotossegundac {
@@ -131,7 +110,7 @@ h1 {
     background-color: red;
   }
   50% {
-    background-color: #00ffff;
+    background-color: aqua;
   }
   100% {
     background-color: greenyellow;
@@ -165,7 +144,6 @@ h1 {
   font-size: medium;
   font-style: italic;
   font-weight: bold;
-  text-transform: uppercase;
 }
 
 .rowuno {

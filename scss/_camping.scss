@@ -4,5 +4,5 @@
  
  
  .adicionales{text-align: center;
-font-size: x-large;text-transform: uppercase;
+font-size: x-large;text-transform:map-get($text,mayus );
 color: rgb(123, 131, 115);background-color: azure;}
